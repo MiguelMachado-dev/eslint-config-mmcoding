@@ -3,6 +3,7 @@
   "version": "1.0.2",
   "description": "Miguel Machado (aka mmcoding) eslint settings",
   "main": "index.js",
+  "repository": "git@github.com:MiguelMachado-dev/eslint-config-mmcoding.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
