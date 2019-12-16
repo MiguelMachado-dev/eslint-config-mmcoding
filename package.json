@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mmcoding",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Miguel Machado (aka mmcoding) eslint settings",
   "main": "index.js",
   "repository": "git@github.com:MiguelMachado-dev/eslint-config-mmcoding.git",
@@ -21,9 +21,11 @@
   },
   "keywords": [
     "eslint",
+    "lint",
+    "config",
+    "prettier",
     "mmcoding",
-    "Miguel",
-    "Machado"
+    "Miguel"
   ],
   "author": "Miguel Machado",
   "license": "MIT",
