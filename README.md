@@ -4,6 +4,8 @@ These are my settings for ESLint and Prettier
 
 You might like them - or you might not. Don't worry you can always change them.
 
+You can see all the [rules here](https://github.com/MiguelMachado-dev/eslint-config-mmcoding/blob/master/.eslintrc.js)
+
 ## Local / Per Project Install
 
 1. If you don't already have a `package.json` file, create one with `npm init`.
@@ -23,3 +25,7 @@ npx install-peerdeps --dev eslint-config-mmcoding
   "extends": ["mmcoding"]
 }
 ```
+
+### Absolute paths
+
+This ESlint is setted up to use absolute paths, so if you want to use you can [check here](https://miguelmachado.dev/absolute-imports-with-create-react-app/) how to do it! Your ESlint will not complain about!! 😊
